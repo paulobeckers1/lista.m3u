@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-logo="" group-title="CANAIS DE FILMES", MEGAPIX
+https://tvembed.net/megapix/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=a95bcad6836bf09d66fd95efc02a9303d7e57d72-da87bcd6f3ff1bbd7bdcbea82db376b3-1699425947-1699418747
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="" group-title="CANAIS DE FILMES", HBO
+https://tvembed.net/hbo/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=ff9302f6678711fb5de90b9c19141f2513d93e8e-a5f860db3eddd1c9efae34228a17588a-1699429176-1699421976
+
+#EXTINF:-1 tvg-id="HBO-2" tvg-logo="" group-title="CANAIS DE FILMES", HBO-2
+https://tvembed.net/hbo2/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=0b1628a2ebe88421c89eb3d5233d05c49a6b100b-d00899048f695d765fa6c73a3903dc04-1699429220-1699422020
+
+#EXTINF:-1 tvg-id="HBO-PLUS" tvg-logo="" group-title="CANAIS DE FILMES", HBO-PLUS
+https://tvembed.net/hbo-plus/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=396ab46bf5bf2380d15952b47c8ab73e8a6b49e6-7df6f56333e7d1f0d703c3b843592d24-1699429342-1699422142
+
+#EXTINF:-1 tvg-id="HBO-FAMILY" tvg-logo="" group-title="CANAIS DE FILMES", HBO-FAMILY
+https://tvembed.net/hbo-family/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=da867907829aae3cd09b45a4419dbfb3f8fb894a-77f766b65dcd7d916c9b2b8a7e208697-1699429407-1699422207
+
+#EXTINF:-1 tvg-id="HBO-SIGNATURE" tvg-logo="" group-title="CANAIS DE FILMES", HBO-SIGNATURE
+https://tvembed.net/hbo-signature/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=ebbb4228d14c417d4ed1520b90d4fd0f2c787f0d-a912c61bae639eb3995b249e4d89ba42-1699429511-1699422311
+
+#EXTINF:-1 tvg-id="HBO-XTREME" tvg-logo="" group-title="CANAIS DE FILMES", HBO-XTREME
+https://tvembed.net/hbo-xtreme/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=f9808a881f63cb1d5333b73127b44357be4508ff-1e039a8ebf75df393da6d3a433b0d241-1699429579-1699422379
+
+#EXTINF:-1 tvg-id="HBO-MUNDI" tvg-logo="" group-title="CANAIS DE FILMES", HBO-MUNDI
+https://tvembed.net/hbo-mundi/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=36c291bec6d9db3be0e2fd2d8eb5eb150c3481d3-b1affef575bf6a308751c4a5e840aa90-1699429681-1699422481
+
+#EXTINF:-1 tvg-id="HBO-POP" tvg-logo="" group-title="CANAIS DE FILMES", HBO-POP
+https://tvembed.net/hbo-pop/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=54bfbe3752cdc2da7ad6ab44e11f9de70b6f69cd-2cd930e898a2858856c9c697a952fcfb-1699429732-1699422532
+
+#EXTINF:-1 tvg-id="WARNER-TV" tvg-logo="" group-title="CANAIS DE FILMES", WARNER-TV
+https://tvembed.net/warner/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=5bbe5c3182a5d05a621583742e3b7a876eb1079a-903dc839a5db8e12ba28bdca967b9c0d-1699429797-1699422597
+
+#EXTINF:-1 tvg-id="UNIVERSAL-TV" tvg-logo="" group-title="CANAIS DE FILMES", UNIVERSAL-TV
+https://tvembed.net/universal/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=bb7e08a5e045ce4d762e4e9134b1ced7b1953b88-ec85d7f76648d4d43664a67fa50fe792-1699429845-1699422645
+
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="" group-title="CANAIS DE FILMES", SPACE
+https://server11.net/space/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=78e67f54ecd775929fc586c49cc7f6069306c5ec-eb265072de93e328af647efcbcc28110-1699429910-1699422710
+
+#EXTINF:-1 tvg-id="STUDIO-UNIVERSAL" tvg-logo="" group-title="CANAIS DE FILMES", STUDIO-UNIVERSAL
+https://tvembed.net/studio-universal/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=38713c325e3899a02b3a4bf45fa4964c1dc0d2a2-57b4060fd30fa69c3801c0b5d19ae46e-1699430044-1699422844
+
+
+#EXTINF:-1 tvg-id="SONY-CHANNEL" tvg-logo="" group-title="CANAIS DE FILMES", SONY-CHANNEL
+https://tvembed.net/sony/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=6eb6225a7547f4d5303ef4dd2d5a75c8f733b60b-b6e657644d8275f2f164236adb8cd585-1699430111-1699422911
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="" group-title="CANAIS DE FILMES", CINEMAX
+https://tvembed.net/cinemax/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=84dd6a82b69746568abce22caafeff24ff5a10e7-ed2c35d820bde352ce6a1b5ba43c2cd3-1699430237-1699423037
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="" group-title="CANAIS DE FILMES", TNT
+https://server11.net/tnt/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=663ae95b5eb18f9d90427ed19108ba2846454ad8-bd3bbe4150696e1b9552a437bab81e46-1699430384-1699423184
+
+#EXTINF:-1 tvg-id="TNT-SERIES" tvg-logo="" group-title="CANAIS DE FILMES", TNT-SERIES
+https://tvembed.net/tnt-serie/tracks-v1a1/mono.m3u8?remote=186.232.49.195&token=19bcd2f0efc9289562556e0415813d02ca1a9832-02ba7f7e006614e76446718b9804c013-1699430459-1699423259
